@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/elia_perrone/Documents/SUPSI/2017_2018/Algoritmi_strutture/Confronto_LZ/Versioni_finali/LZ78_V4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/elia_perrone/Documents/SUPSI/2017_2018/Algoritmi_strutture/Confronto_LZ/Versioni_finali/LZ78_V4/cmake-build-debug
