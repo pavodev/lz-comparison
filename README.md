@@ -1,6 +1,6 @@
 # LZ-comparison - LZ77 & LZ78
 The aim of this project was to compare two compression algorithms of the LZ family. 
-This project has been developed by <a href="https://github.com/pavodev">Ivan Pavic</a>(LZ77) and <a href="https://github.com/eliaperrone">Elia Perrone</a>(LZ78).
+This project has been developed by <a href="https://github.com/pavodev">pavodev</a>(LZ77) and <a href="https://github.com/eliaperrone">eliaperrone</a>(LZ78).
 
 ## Introduction
 Day by day the amount of data exchanged is growing and files are increasingly sophisticated and heavy in terms of storage space.
